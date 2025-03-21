@@ -1,0 +1,1 @@
+# gradle-shadow-plugin-warn
